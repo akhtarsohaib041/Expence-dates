@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Expence-dates/static/css/main.5e8608b0.css",
+    "main.js": "/Expence-dates/static/js/main.033bef2c.js",
+    "index.html": "/Expence-dates/index.html",
+    "main.5e8608b0.css.map": "/Expence-dates/static/css/main.5e8608b0.css.map",
+    "main.033bef2c.js.map": "/Expence-dates/static/js/main.033bef2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e8608b0.css",
+    "static/js/main.033bef2c.js"
+  ]
+}
